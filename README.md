@@ -29,6 +29,6 @@ The real version connects to my client's private system via Google API. For this
 - employee-specific login
 
 ## Connect
-- Live Demo:
-- Portfolio: 
+- Live Demo: 
+- Portfolio: `https://essence-portfolio.netlify.app/`
 - GitHub: 
